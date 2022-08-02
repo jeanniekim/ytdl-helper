@@ -9,7 +9,7 @@ Current script only downloads as `.mp4`. Function verified on Windows 10.
 ## to use
 Download [youtube-dl](https://github.com/ytdl-org/youtube-dl). Place `download.sh` in the same directory as `youtube-dl.exe`. Run the shell script. Demonstration below:
 
-![demo](./demo.gif)
+![demo](https://raw.githubusercontent.com/jeanniekim/ytdl-helper/main/demo.gif)
 
 The finished video will save in the same directory as `download.sh` and `youtube-dl.exe`. 
 
